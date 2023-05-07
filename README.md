@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/images/leaflet.jpeg" align="Center">
+<img src="/images/leaflet.jpg" align="Center" width=800 height =400>
 </p>
 
 # Module 15 Challenge Submission - Mapping On The Web
@@ -30,11 +30,11 @@ This project provides an interactive map of earthquake data, including:
 - Popups with information about the earthquake, including magnitude, location, and depth.
 - A legend that displays the depth intervals and their corresponding colors.
 
-<img src="/images/screenshot.jpg">
+<img src="/images/Screenshot.jpg">
 
 ## Conclusion
 
-This project demonstrates the use of web mapping tools and libraries such as Leaflet to create a meaningful visualization of real-time earthquake data from the USGS.
+This project demonstrates the use of web mapping tools and libraries such as Leaflet to create a visualization of real-time earthquake data from the USGS.
 
 ## Project Structure
 
